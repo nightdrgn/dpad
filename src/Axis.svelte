@@ -16,8 +16,8 @@
 
 .axis-0 {
     position: absolute;
-    top: 105px;
-    left: 295px;
+    top: 123px;
+    left: 494px;
     z-index: 999;
     /* position: relative; */
     width: 150px;
